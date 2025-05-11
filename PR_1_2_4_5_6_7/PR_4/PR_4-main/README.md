@@ -11,7 +11,7 @@
 ## Завдання
 
 ### 1. Створення нової сутності `Post`  
-![Скріншот 1](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/16dda30b773177884d7af147b8d25606a055aeaf/PR_4/screen/1.png?raw=true)
+![1](https://github.com/itassumi/PR_1_2_3_4_5_6_7/blob/ddba548478d88eab9a19ebbf20cd5e4cb427d162/PR_1_2_4_5_6_7/PR_4/screen/1.png)
 
 ---
 
@@ -19,11 +19,11 @@
 - Створити міграцію для сутності `Post`
 - Виконати міграцію:
 
-![Скріншот 2](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/16dda30b773177884d7af147b8d25606a055aeaf/PR_4/screen/2.png?raw=true)
+![2_4](https://github.com/itassumi/PR_1_2_3_4_5_6_7/blob/ddba548478d88eab9a19ebbf20cd5e4cb427d162/PR_1_2_4_5_6_7/PR_4/screen/2_4.png)
 
 - Перевірити результат виконання через IDE:
 
-![Скріншот 3](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/16dda30b773177884d7af147b8d25606a055aeaf/PR_4/screen/3.png?raw=true)
+![3](https://github.com/itassumi/PR_1_2_3_4_5_6_7/blob/ddba548478d88eab9a19ebbf20cd5e4cb427d162/PR_1_2_4_5_6_7/PR_4/screen/3.png)
 
 ---
 
@@ -31,8 +31,8 @@
 - Створити контролер та сервіси  
 - Налаштувати маршрути відповідно до REST принципів  
 
-![Скріншот 4](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/16dda30b773177884d7af147b8d25606a055aeaf/PR_4/screen/4.png?raw=true)  
-![Скріншот 5](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/16dda30b773177884d7af147b8d25606a055aeaf/PR_4/screen/5.png?raw=true)
+![4_4](https://github.com/itassumi/PR_1_2_3_4_5_6_7/blob/ddba548478d88eab9a19ebbf20cd5e4cb427d162/PR_1_2_4_5_6_7/PR_4/screen/4_4.png)  
+![5_4](https://github.com/itassumi/PR_1_2_3_4_5_6_7/blob/ddba548478d88eab9a19ebbf20cd5e4cb427d162/PR_1_2_4_5_6_7/PR_4/screen/5_4.png)
 
 ---
 
@@ -40,4 +40,4 @@
 - Додати нові ендпоінти до колекції Postman  
 - Протестувати всі CRUD-операції  
 
-![Скріншот 6](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/16dda30b773177884d7af147b8d25606a055aeaf/PR_4/screen/6.png?raw=true)
+![6](https://github.com/itassumi/PR_1_2_3_4_5_6_7/blob/ddba548478d88eab9a19ebbf20cd5e4cb427d162/PR_1_2_4_5_6_7/PR_4/screen/6.png)
