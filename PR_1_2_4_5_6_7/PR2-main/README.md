@@ -7,7 +7,7 @@
 3. Запустіть початковий скрипт сетапу проєкту (`pnpm run setup`).
 
 ### **Результат:**
-![Знімок екрана 2025-03-22 210304](https://github.com/user-attachments/assets/4b09d659-a30a-46f0-ab1e-f75dd559bb8c)
+![Result](https://github.com/itassumi/PR_1_2_3_4_5_6_7/blob/686a5e3634b1a1f36258c61dff94896bdd0b697e/PR_1_2_4_5_6_7/PR2-main/screen/1.png)
 
 ---
 
@@ -37,7 +37,7 @@
 
 ## **Завдання 3: Семантичне версіонування (SemVer)**
 ### **Опис завдання:**
-Ознайомтесь із принципами SemVer. Дослідіть версії пакетів бойлерплейту.
+Ознайомтесь із принципами SemVer. Досліджуйте версії пакетів бойлерплейту.
 
 ### **Рішення:**
 #### **Dependencies:**
@@ -68,26 +68,19 @@
 Дослідження артефактів, які створюються після встановлення та налаштування `Husky`.
 
 ### **Рішення:**
-![Screenshot_3](https://github.com/user-attachments/assets/e38e7548-660e-488c-90b6-db75aacab695)
-![Screenshot_22](https://github.com/user-attachments/assets/8f98e391-3c1b-46a5-b0a1-57c266279065)
-![Screenshot_1](https://github.com/user-attachments/assets/ee1026f1-ca9f-494f-a50f-714281f52dce)
+![Husky Hooks](https://github.com/itassumi/PR_1_2_3_4_5_6_7/blob/686a5e3634b1a1f36258c61dff94896bdd0b697e/PR_1_2_4_5_6_7/PR2-main/screen/2.png)
+![Husky Hooks](https://github.com/itassumi/PR_1_2_3_4_5_6_7/blob/686a5e3634b1a1f36258c61dff94896bdd0b697e/PR_1_2_4_5_6_7/PR2-main/screen/3.png)
+![Husky Hooks](https://github.com/itassumi/PR_1_2_3_4_5_6_7/blob/686a5e3634b1a1f36258c61dff94896bdd0b697e/PR_1_2_4_5_6_7/PR2-main/screen/4.png)
 
 ---
 
 ## **Завдання 6: Використання змінних оточення**
 ### **Опис завдання:**
-Написати скрипт, який буде зчитувати змінну оточення та виводити її значення у консоль. Дослідити пріоритетність змінних на різних рівнях (ОС, сесія терміналу, окремий запуск, `.env` файл).
+Напишіть скрипт, який буде зчитувати змінну оточення та виводити її значення у консоль. Досліджуйте пріоритетність змінних на різних рівнях (ОС, сесія терміналу, окремий запуск, `.env` файл).
 
 ### **Рішення:**
-![image](https://github.com/user-attachments/assets/4bc92e99-3e24-42ec-a301-4d37013ab356)
-![Знімок екрана 2025-03-22 211557](https://github.com/user-attachments/assets/e2e0cfc2-341c-4bdd-8453-91c8319831c2)
-
-
-
-
-
-
-
+![Environment Variables](https://github.com/itassumi/PR_1_2_3_4_5_6_7/blob/686a5e3634b1a1f36258c61dff94896bdd0b697e/PR_1_2_4_5_6_7/PR2-main/screen/5.png)
+![Environment Variables](https://github.com/itassumi/PR_1_2_3_4_5_6_7/blob/686a5e3634b1a1f36258c61dff94896bdd0b697e/PR_1_2_4_5_6_7/PR2-main/screen/6.png)
 
 
 
