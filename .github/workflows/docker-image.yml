@@ -1,0 +1,67 @@
+name: Build and Publish Docker Image
+
+permissions:
+  contents: read
+  packages: write  
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - 'feature/*'
+
+jobs:
+  build-and-push-image:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Prepare lowercase vars
+        run: |
+          ACTOR_LOWER="${GITHUB_ACTOR,,}"
+          REPO="${GITHUB_REPOSITORY##*/}"
+          echo "LOWER_ACTOR=$ACTOR_LOWER" >> $GITHUB_ENV
+          echo "LOWER_REPO=${REPO,,}"   >> $GITHUB_ENV
+
+      - name: Install dependencies and build
+        working-directory: PR8
+        run: |
+          npm install -g pnpm
+          pnpm install --frozen-lockfile
+          pnpm run build
+
+      
+      - name: Log in to GitHub Container Registry
+        uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ env.LOWER_ACTOR }} 
+          password: ${{ secrets.CR_PAT }}       
+          logout: true 
+
+      - name: Build and push Docker image
+        uses: docker/build-push-action@v5
+        with:
+          context: PR8
+          file: PR8/Dockerfile
+          push: true
+          tags: |
+            ghcr.io/${{ env.LOWER_ACTOR }}/${{ env.LOWER_REPO }}:latest
+  deploy:
+      needs: build-and-push-image
+      runs-on: ubuntu-latest
+  
+      steps:
+        - name: Azure Login
+          uses: azure/login@v2
+          with:
+            creds: ${{ secrets.AZURE_CREDENTIALS }}
+  
+        - name: Deploy to Azure Web App
+          uses: azure/webapps-deploy@v2
+          with:
+            app-name: PR9
+            images: ghcr.io/${{ env.LOWER_ACTOR }}/${{ env.LOWER_REPO }}:latest
