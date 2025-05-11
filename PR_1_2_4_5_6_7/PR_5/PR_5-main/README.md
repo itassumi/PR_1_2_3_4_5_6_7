@@ -12,20 +12,24 @@
 ## Завдання
 
 ### 1. Створення та вкладення компонентів  
-![Скріншот 1](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/d20b0387838a69147d3bf66d89dc3d484b8930ac/PR_5/screen/1.png?raw=true)
+![5_1](https://github.com/itassumi/PR_1_2_3_4_5_6_7/blob/6f967a7c501800c146788d51956e19b3a194a384/PR_1_2_4_5_6_7/PR_5/screen/5_1.png)  
+![5.1_2](https://github.com/itassumi/PR_1_2_3_4_5_6_7/blob/6f967a7c501800c146788d51956e19b3a194a384/PR_1_2_4_5_6_7/PR_5/screen/5.1_2.png)  
+![5.1_3](https://github.com/itassumi/PR_1_2_3_4_5_6_7/blob/6f967a7c501800c146788d51956e19b3a194a384/PR_1_2_4_5_6_7/PR_5/screen/5.1_3.png)
 
 ---
 
 ### 2. Створення розмітки за допомогою JSX, Відображення даних, Додавання стилів  
-![Скріншот 2](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/d20b0387838a69147d3bf66d89dc3d484b8930ac/PR_5/screen/2.png?raw=true)
+![5_2.1](https://github.com/itassumi/PR_1_2_3_4_5_6_7/blob/6f967a7c501800c146788d51956e19b3a194a384/PR_1_2_4_5_6_7/PR_5/screen/5_2.1.png)  
+![5.2_2](https://github.com/itassumi/PR_1_2_3_4_5_6_7/blob/6f967a7c501800c146788d51956e19b3a194a384/PR_1_2_4_5_6_7/PR_5/screen/5.2_2.png)
 
 ---
 
 ### 3. Відображення списків та обробка подій  
-![Скріншот 3](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/d20b0387838a69147d3bf66d89dc3d484b8930ac/PR_5/screen/3.png?raw=true)
+![5.3](https://github.com/itassumi/PR_1_2_3_4_5_6_7/blob/6f967a7c501800c146788d51956e19b3a194a384/PR_1_2_4_5_6_7/PR_5/screen/5.3.png)
 
 ---
 
 ### Результат  
-![Скріншот 4](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/d20b0387838a69147d3bf66d89dc3d484b8930ac/PR_5/screen/4.png?raw=true)
+![Screenshot_181](https://github.com/itassumi/PR_1_2_3_4_5_6_7/blob/6f967a7c501800c146788d51956e19b3a194a384/PR_1_2_4_5_6_7/PR_5/screen/Screenshot_181.png)
+
 
