@@ -63,5 +63,5 @@ jobs:
         - name: Deploy to Azure Web App
           uses: azure/webapps-deploy@v2
           with:
-            app-name: kitty2
+            app-name: HelloNeKitty
             images: ghcr.io/${{ env.LOWER_ACTOR }}/${{ env.LOWER_REPO }}:latest
