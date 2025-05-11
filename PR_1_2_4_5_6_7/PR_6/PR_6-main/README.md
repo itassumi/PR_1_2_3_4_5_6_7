@@ -23,11 +23,11 @@
 - Кнопка **"Створити новий екземпляр"** → `/posts/new`
 - Реалізація **видалення** елементів (із підтвердженням дії)
 
-![1](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/bb122f1f9ece06f30aea75d311eb2a5a26705862/PR_6/screen/1.png?raw=true)
-![2](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/bb122f1f9ece06f30aea75d311eb2a5a26705862/PR_6/screen/2.png?raw=true)
-![3](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/bb122f1f9ece06f30aea75d311eb2a5a26705862/PR_6/screen/3.png?raw=true)
-![4](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/bb122f1f9ece06f30aea75d311eb2a5a26705862/PR_6/screen/4.png?raw=true)
-![5](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/bb122f1f9ece06f30aea75d311eb2a5a26705862/PR_6/screen/5.png?raw=true)
+![1](https://github.com/itassumi/PR_1_2_3_4_5_6_7/blob/5e67cbce9f435ebe8403318a857fcf25bf99ef22/PR_1_2_4_5_6_7/PR_6/screen/1.png?raw=true)  
+![2](https://github.com/itassumi/PR_1_2_3_4_5_6_7/blob/5e67cbce9f435ebe8403318a857fcf25bf99ef22/PR_1_2_4_5_6_7/PR_6/screen/2.png?raw=true)  
+![3](https://github.com/itassumi/PR_1_2_3_4_5_6_7/blob/5e67cbce9f435ebe8403318a857fcf25bf99ef22/PR_1_2_4_5_6_7/PR_6/screen/3.png?raw=true)  
+![4](https://github.com/itassumi/PR_1_2_3_4_5_6_7/blob/5e67cbce9f435ebe8403318a857fcf25bf99ef22/PR_1_2_4_5_6_7/PR_6/screen/4.png?raw=true)  
+![5](https://github.com/itassumi/PR_1_2_3_4_5_6_7/blob/5e67cbce9f435ebe8403318a857fcf25bf99ef22/PR_1_2_4_5_6_7/PR_6/screen/5.png?raw=true)  
 
 ---
 
@@ -44,18 +44,17 @@
 - Форма з порожніми полями
 - Кнопка **Create** для збереження нового поста
 
-![6](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/bb122f1f9ece06f30aea75d311eb2a5a26705862/PR_6/screen/6.png?raw=true)
-![7](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/bb122f1f9ece06f30aea75d311eb2a5a26705862/PR_6/screen/7.png?raw=true)
+![6](https://github.com/itassumi/PR_1_2_3_4_5_6_7/blob/5e67cbce9f435ebe8403318a857fcf25bf99ef22/PR_1_2_4_5_6_7/PR_6/screen/6.png?raw=true)  
+![7](https://github.com/itassumi/PR_1_2_3_4_5_6_7/blob/5e67cbce9f435ebe8403318a857fcf25bf99ef22/PR_1_2_4_5_6_7/PR_6/screen/7.png?raw=true)  
 
 ---
 
 ### Результат
 
-![8](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/bb122f1f9ece06f30aea75d311eb2a5a26705862/PR_6/screen/8.png?raw=true)
-![9](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/bb122f1f9ece06f30aea75d311eb2a5a26705862/PR_6/screen/9.png?raw=true)
-![10](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/bb122f1f9ece06f30aea75d311eb2a5a26705862/PR_6/screen/10.png?raw=true)
-![11](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/bb122f1f9ece06f30aea75d311eb2a5a26705862/PR_6/screen/11.png?raw=true)
-![12](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/bb122f1f9ece06f30aea75d311eb2a5a26705862/PR_6/screen/12.png?raw=true)
-![13](https://github.com/itassumi/PR_1_2_4_5_6_7_8/blob/bb122f1f9ece06f30aea75d311eb2a5a26705862/PR_6/screen/13.png?raw=true)
+![8](https://github.com/itassumi/PR_1_2_3_4_5_6_7/blob/5e67cbce9f435ebe8403318a857fcf25bf99ef22/PR_1_2_4_5_6_7/PR_6/screen/8.png?raw=true)  
+![9](https://github.com/itassumi/PR_1_2_3_4_5_6_7/blob/5e67cbce9f435ebe8403318a857fcf25bf99ef22/PR_1_2_4_5_6_7/PR_6/screen/9.png?raw=true)  
+![10](https://github.com/itassumi/PR_1_2_3_4_5_6_7/blob/5e67cbce9f435ebe8403318a857fcf25bf99ef22/PR_1_2_4_5_6_7/PR_6/screen/10.png?raw=true)  
+![11](https://github.com/itassumi/PR_1_2_3_4_5_6_7/blob/5e67cbce9f435ebe8403318a857fcf25bf99ef22/PR_1_2_4_5_6_7/PR_6/screen/11.png?raw=true)  
+![12](https://github.com/itassumi/PR_1_2_3_4_5_6_7/blob/5e67cbce9f435ebe8403318a857fcf25bf99ef22/PR_1_2_4_5_6_7/PR_6/screen/12.png?raw=true)  
 
  
